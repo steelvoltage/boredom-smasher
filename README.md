@@ -1,3 +1,3 @@
 Live Version:
 
-http://steelvoltage.github.io/bordem-smasher
+https://boredom-smasher.netlify.com/
