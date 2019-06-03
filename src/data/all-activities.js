@@ -52,7 +52,6 @@ const ideas = [
 ]
 
 export function generateIdea(activities) {
-  console.log(ideas.length)
   let seed = Math.floor(Math.random() * ideas.length)
   let idea = ideas[seed]
   const activitiesRepeat = activities.some(el => {
