@@ -105,7 +105,7 @@ ul {
   padding: 0;
   list-style-type: none;
   max-height: 50vh;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 ul li {
